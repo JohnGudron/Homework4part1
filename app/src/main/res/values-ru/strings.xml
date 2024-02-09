@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Home work 4 part 1</string>
+    <string name="hello_blank_fragment">Привет пустой фрагмент</string>
+    <string name="fragment_a">Фррагмент А</string>
+    <string name="go_to_b">Перейти в Б</string>
+    <string name="fragment_b">Фрагмент Б</string>
+    <string name="back_to_a">Назад в А</string>
+    <string name="go_to_c">Перейти в Ц</string>
+    <string name="default_text">Текст по умолчанию</string>
+    <string name="go_to_d">Перейти в Д</string>
+    <string name="go_to_a">Перейти в А</string>
+    <string name="fragment_c">Фрагмент Ц</string>
+    <string name="fragment_d">Фрагммент Д</string>
+    <string name="go_to_b_from_d">Перейти в Б</string>
+    <string name="hello_fragment_c">Привет фрагмент Ц!</string>
+</resources>
